@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+https://img-9gag-fun.9cache.com/photo/ayo91RM_460swp.webp
